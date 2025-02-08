@@ -2,7 +2,7 @@ const messages = [
     ":(",
     "die",
     "Are you positive?",
-    "...",
+    "ывоараррррррррнывпр",
     "Just think about it!",
     "i love Russia",
     "if u say no i will be very sad...",
