@@ -4,11 +4,11 @@ const messages = [
     "Are you positive?",
     "...",
     "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
+    "i love Russia",
+    "if u say no i will be very sad...",
     "I will be very very very sad...",
     "im a dumb retarded bitch",
-    "i love Russia"
+    "?????????????"
 ];
 
 let messageIndex = 0;
